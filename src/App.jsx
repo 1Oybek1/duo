@@ -1,15 +1,18 @@
-import Navbar1 from "./Components/Navbar/Navbar"
-import Section from "./Components/Section/Section"
+import CenterContainer from "./Components/Center/Center"
+import Navbar from "./Components/Navbar/Navbar"
 
 function App() {
 
 
   return (
     <>
-      <Navbar1/>
+      <Navbar/>
       <Section/>
+      <CenterContainer />
     </>
   )
 }
 
 export default App
+
+
