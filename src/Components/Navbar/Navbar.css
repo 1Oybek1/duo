@@ -11,10 +11,12 @@
 }
 .text{
     color: aliceblue;
+    font-size: 20px;
 }
 a{
     list-style: none;
-    text-decoration: none;   
+    text-decoration: none;  
+    color: aliceblue; 
 }
 .button1{
     padding: 13px;
@@ -27,6 +29,10 @@ a{
 }
 .a1{
     margin-left: 50px;
+    color: aliceblue;
+}
+.a2{
+    color: aliceblue;
 }
 .center{
     display: flex;
@@ -36,7 +42,7 @@ a{
 .lool{
     font-size: 80px;
 }
-.lol{
+.lal{
     color: gray; 
     margin-top: 50px;
 }
@@ -45,6 +51,7 @@ a{
     background-color: black;
     color: aliceblue;
     padding-top: 200px;
+    margin-bottom: 0;
 }
 .nw{
     padding: 13px;
@@ -55,4 +62,8 @@ a{
     border: 1px solid white;
     border-radius: 20px;
     margin-top: 50px;
+    margin-bottom: 20px;
+}
+.all{
+    background-color: black;
 }
