@@ -4,10 +4,13 @@ import './Center.css'
 
 const CenterContainer = ()=> {
     return(
-        <div className="center">
-            <h5 className="h text-white mt-6 ">Our Portfolio</h5>
-            <h1>What do we do</h1>
-
+        <div className="center text-center">
+            <div className="">
+                <h5 className="h text-white ">Our Portfolio</h5>
+            </div>
+            <div className="">
+                <h1 className="h text-white mt-5">What do we do</h1>
+            </div>
         </div>
     )
 }
