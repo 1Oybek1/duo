@@ -8,7 +8,7 @@ const Section = () => {
 
 
 
-
+<div className="ll">
 <div className="l">
     <img className='image' src="https://as1.ftcdn.net/v2/jpg/02/44/74/78/1000_F_244747814_oEtQo05PMbz22Aau69KE98BNMbvaCLfq.jpg" alt="" />
     </div>
@@ -18,13 +18,14 @@ const Section = () => {
       <h1 className='two'>800+ Done</h1>
       </div>
       </div>
-      
+
       <div className="jg2">
       <div className="box2">
         <h1 className='one1'>
           Bill Adams
         </h1>
         <h1 className='ok'>“ This team is really the <br /> best in its field,I don't<br /> regret working with them,<br /> and will come back again<br /> thanks “</h1>
+      </div>
       </div>
       </div>
 
