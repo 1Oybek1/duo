@@ -1,0 +1,161 @@
+.lol{
+    background-color: #000;
+}
+
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 800px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 550px;
+    margin-top: 150px;
+    position: absolute;
+    z-index: 0;
+}
+.box1{
+    background: #000;
+    width: 200px;
+    height: 100px;
+    padding: 25px;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 430px;
+}
+.one{
+    color: gray;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.two{
+    color: aliceblue;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box2{
+    background-color: black;
+    width: 200px;
+    height: 170px;
+    color: aliceblue;
+    border-radius: 20px;
+    margin-left: 1250px;
+    margin-top: 480px;
+    position: absolute;
+}
+.one1{
+    font-size: 20px;
+    text-align: center;
+}
+.ok{
+    text-align: center;
+    margin-top: 10px;
+}
+.sky{
+padding-top: 800px;
+color: gray;
+font-size: 20px;
+text-align: center;
+}
+.sky1{
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+}
+.nw{
+    padding: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.button1{
+    padding: 13px;
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color: transparent;
+    color: aliceblue;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+.sdf{
+    color: grey;
+    font-size: 20px;
+}
+.imag{
+    width: 800px;
+    border-radius: 20px
+}
+.ind{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 100px;
+}
+.sdf1{
+    color: white;
+    font-size: 20px;
+}
+.sky2{
+    color: aliceblue;
+    font-size: 50px;
+    margin-top: 20px;
+}
+.sdf10{
+    color: white;
+    margin-left: 300px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.sdf8{
+    color: grey;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.carrdd{
+    width: 220px;
+    height: 250px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+.kia{
+    display: flex;
+    gap: 200px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.sdf11{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 30px;
+}
+.cardig{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: aliceblue;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.aef{
+    display: flex;
+    gap: 75px;
+}
+.kj{
+    display: flex;
+    gap: 75px;
+    margin-top: 75px;
+}
