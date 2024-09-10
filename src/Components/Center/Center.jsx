@@ -8,6 +8,7 @@ import { Button, Card } from "flowbite-react";
 
 const CenterContainer = ()=> {
     return(
+<<<<<<< HEAD
         <div className="center text-center flex flex-col">
             <div>
                 <h1  style={{color:"white", fontSize:"40px", marginTop:"70px"}}>What do we do</h1>
@@ -85,6 +86,10 @@ const CenterContainer = ()=> {
                 </Card>
 
             </div>
+=======
+        <div className="center text-center">
+
+>>>>>>> 2c258749ea3a59e56f27ef57aad354ba8e5940f8
         </div>
     )
 }
