@@ -1,7 +1,22 @@
 .lol{
     background-color: #000;
 }
+.l{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
+}
+.jg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.jg2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .image{
     display: flex;
     align-items: center;
@@ -9,8 +24,7 @@
     width: 800px;
     border-radius: 20px;
     text-align: center;
-    margin-left: 550px;
-    margin-top: 150px;
+    margin-top: 800px;
     position: absolute;
     z-index: 0;
 }
@@ -21,8 +35,8 @@
     padding: 25px;
     border-radius: 20px;
     position: absolute;
-    margin-top: 200px;
-    margin-left: 430px;
+    margin-top: 500px;
+    margin-right: 800px;
 }
 .one{
     color: gray;
@@ -44,8 +58,8 @@
     height: 170px;
     color: aliceblue;
     border-radius: 20px;
-    margin-left: 1250px;
-    margin-top: 480px;
+    margin-top: 1000px;
+    margin-left: 780px;
     position: absolute;
 }
 .one1{

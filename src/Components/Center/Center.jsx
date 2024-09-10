@@ -10,7 +10,7 @@ const CenterContainer = ()=> {
                 <p className="text-white">all projects that we have already done , proven can help to use more <br /> comfortable, then can used by client from our business</p>
             </div>
             <div class="main" style="margin-top: 100px;">
-        <ul class="cards">
+        <ul className="cards">
           <li class="cards_item">
             <div class="card1">
               <div class="card_image"></div>
