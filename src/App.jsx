@@ -1,22 +1,13 @@
-import CenterContainer from "./Components/Center/Center"
-import Navbar from "./Components/Navbar/Navbar"
-import Section from "./Components/Section/Section"
+import Navbar from "./Components/Navbar/Navbar";
+import CenterContainer from "./Components/Center/Center";
+import Section from "./Components/Section/Section";
 
-function App() {
-
-
-  return (
-
-      <Navbar/>
-      <Section/>
+const App = ()=> {
+  return(
+    <div>
+      <Navbar />
+      <Section />
       <CenterContainer />
-
-    <>
-<Navbar/>
-<Section/>
-<CenterContainer/>
-
+    </div>
   )
 }
-
-export default App;
