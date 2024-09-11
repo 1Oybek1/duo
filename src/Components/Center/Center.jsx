@@ -7,15 +7,6 @@ import coding from '../../assets/coding.jpg'
 import { Card } from "flowbite-react";
 import { Button } from "flowbite-react";
 import { Footer } from "flowbite-react";
-import {
-    FooterBrand,
-    FooterCopyright,
-    FooterDivider,
-    FooterIcon,
-    FooterLink,
-    FooterLinkGroup,
-    FooterTitle,
-  } from "flowbite-react";
   import { BsDribbble, BsFacebook, BsGithub, BsInstagram, BsTwitter } from "react-icons/bs";
 
 
